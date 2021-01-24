@@ -1,0 +1,144 @@
+<NotepadPlus>
+    <Project name="Android">
+        <Folder name="experimental">
+            <File name="D:\Lock_Git\Android\experimental\Android.mk" />
+        </Folder>
+        <Folder name="external">
+            <Folder name="hello">
+                <File name="D:\Lock_Git\Android\external\hello\Android.mk" />
+                <File name="D:\Lock_Git\Android\external\hello\hello.c" />
+            </Folder>
+        </Folder>
+        <Folder name="frameworks">
+            <Folder name="base">
+                <Folder name="core">
+                    <Folder name="java">
+                        <Folder name="android">
+                            <Folder name="os">
+                                <File name="D:\Lock_Git\Android\frameworks\base\core\java\android\os\IHelloService.aidl" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                </Folder>
+                <Folder name="services">
+                    <Folder name="core">
+                        <Folder name="java">
+                            <Folder name="com">
+                                <Folder name="android">
+                                    <Folder name="server">
+                                        <File name="D:\Lock_Git\Android\frameworks\base\services\core\java\com\android\server\HelloService.java" />
+                                    </Folder>
+                                </Folder>
+                            </Folder>
+                        </Folder>
+                        <Folder name="jni">
+                            <File name="D:\Lock_Git\Android\frameworks\base\services\core\jni\Android.mk" />
+                            <File name="D:\Lock_Git\Android\frameworks\base\services\core\jni\com_android_server_HelloService.cpp" />
+                            <File name="D:\Lock_Git\Android\frameworks\base\services\core\jni\onload.cpp" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="java">
+                        <Folder name="com">
+                            <Folder name="android">
+                                <Folder name="server">
+                                    <File name="D:\Lock_Git\Android\frameworks\base\services\java\com\android\server\SystemServer.java" />
+                                </Folder>
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                </Folder>
+                <File name="D:\Lock_Git\Android\frameworks\base\Android.mk" />
+            </Folder>
+        </Folder>
+        <Folder name="hardware">
+            <Folder name="libhardware">
+                <Folder name="include">
+                    <Folder name="hardware">
+                        <File name="D:\Lock_Git\Android\hardware\libhardware\include\hardware\hello.h" />
+                    </Folder>
+                </Folder>
+                <Folder name="modules">
+                    <Folder name="hello">
+                        <File name="D:\Lock_Git\Android\hardware\libhardware\modules\hello\Android.mk" />
+                        <File name="D:\Lock_Git\Android\hardware\libhardware\modules\hello\hello.c" />
+                    </Folder>
+                    <File name="D:\Lock_Git\Android\hardware\libhardware\modules\Android.mk" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="kernel_imx">
+            <Folder name="drivers">
+                <Folder name="char">
+                    <Folder name="hello">
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\hello.c" />
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\hello.h" />
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\Kconfig" />
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\Makefile" />
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\modules.builtin" />
+                        <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\hello\modules.order" />
+                    </Folder>
+                    <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\Kconfig" />
+                    <File name="D:\Lock_Git\Android\kernel_imx\drivers\char\Makefile" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="Package">
+            <Folder name="apps">
+                <Folder name="HelloWorld">
+                    <Folder name="res">
+                        <Folder name="drawable">
+                            <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\res\drawable\ic_launcher.png" />
+                        </Folder>
+                        <Folder name="layout">
+                            <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\res\layout\main.xml" />
+                        </Folder>
+                        <Folder name="values">
+                            <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\res\values\strings.xml" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="src">
+                        <Folder name="hello">
+                            <Folder name="helloworld">
+                                <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\src\hello\helloworld\HelloWorld.java" />
+                            </Folder>
+                        </Folder>
+                    </Folder>
+                    <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\Android.mk" />
+                    <File name="D:\Lock_Git\Android\Package\apps\HelloWorld\AndroidManifest.xml" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="system">
+            <Folder name="core">
+                <Folder name="rootdir">
+                    <File name="D:\Lock_Git\Android\system\core\rootdir\ueventd.rc" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="testAPP">
+            <Folder name="hello">
+                <Folder name="res">
+                    <Folder name="drawable" />
+                    <Folder name="layout">
+                        <File name="D:\Lock_Git\Android\testAPP\hello\res\layout\main.xml" />
+                    </Folder>
+                    <Folder name="values">
+                        <File name="D:\Lock_Git\Android\testAPP\hello\res\values\strings.xml" />
+                    </Folder>
+                </Folder>
+                <Folder name="src">
+                    <Folder name="shy">
+                        <File name="D:\Lock_Git\Android\testAPP\hello\src\shy\Hello.java" />
+                    </Folder>
+                </Folder>
+                <Folder name="target">
+                    <Folder name="product">
+                        <File name="D:\Lock_Git\Android\testAPP\hello\target\product\generic_no_telephony.mk" />
+                    </Folder>
+                </Folder>
+                <File name="D:\Lock_Git\Android\testAPP\hello\Android.mk" />
+                <File name="D:\Lock_Git\Android\testAPP\hello\AndroidManifest.xml" />
+            </Folder>
+        </Folder>
+    </Project>
+</NotepadPlus>

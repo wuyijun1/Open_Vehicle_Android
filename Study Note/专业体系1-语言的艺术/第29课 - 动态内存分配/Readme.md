@@ -3,7 +3,7 @@
  
 
 先看一段例程，超市模拟程序，记录卖出去东西的价格以及名称
-
+```C 
 #include <stdio.h>
 
 #include <string.h>
@@ -55,7 +55,7 @@ int main()
     return 0;
 
 }
-
+```
 这里面最大的问题就是，我们设定物品最大的数量就是1000，但是物品超过1000的时候，就会使程序出现问题。这时，我们就可以使用动态内存分配了。
 
  
@@ -110,6 +110,7 @@ void *colloc(size_t num_elements,size_t element_size);
 参数:num_elements是所需的元素的数量，element_size是每个元素的字节数 
 返回:同malloc函数一样 
 也是需要与free(p)进行对称使用
+```C
 #include<stdio.h> 
 
 #include<stdlib.h>
@@ -152,7 +153,7 @@ return 0;
 
 }
 
- 
+ ```
 
 realloc函数:需要用到的头文件(stdlib.h),动态扩大缩小申请的内存 
 void *realloc(void *ptr,size_t new_size); 
@@ -168,7 +169,7 @@ realloc(NULL,10*size(int)) 等同malloc(10*sizeof(int));
 realloc(p,0); 等同于free
 
 例程分析：
-
+```C
 #include <stdio.h>
 
 #include <malloc.h>
@@ -208,7 +209,7 @@ free(pS);
  return 0;
 
 }
-
+```
 运行结果:
 
 pI[0] = -842159451, pS[0] =0

@@ -27,7 +27,7 @@ $1：第一个命令行参数
 $2：第二个命令行参数
 例如：
  
-#2.3
+2.3
 echo "number of var:" $#
 echo "value of vars" $*
 echo "name of script" $0
@@ -61,33 +61,8 @@ else
 commands
 fi
 l  条件比较
-比较操作
-整数操作
-字符串操作
-相同
--eq
-=
-不同
--ne
-!=
-大于
--gt
-> 
-小于
--lt
-< 
-大于或等于
--ge
- 
-小于或等于
--le
- 
-为空
--z
- 
-不为空
--n
- 
+![picture文件](Asset/1.png)
+
 例：
 比较整数a和b是否相等：if [ $a = $b]（也可用eq）
 判断整数a是否大于整数b：if [ $a -gt $b]

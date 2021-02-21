@@ -1,4 +1,4 @@
-第二季-专题16-LCD亮起来 
+# [第二季-专题16-LCD亮起来](https://www.cnblogs.com/free-1122/p/11452213.html) 
 
 第二季-专题16-LCD亮起来 
 
@@ -26,12 +26,12 @@ l  接下来显示指针又回到屏幕的左边从第二行开始显示，显�
 l  以此类推，显示指针就这样一行一行的显示至矩形的右下角才把一幅图像(帧：frame)显示完成，这一帧的显示时间在时序图上表示为VSYNC（垂直同步信号）。
 （2）     LCD显示时序信号
  
-•VSYNC：垂直同步信号
-•HSYNC：水平同步信号
-•VCLK：象素时钟信号
-•VD[23:0]：LCD像素数据输出端口
-•VDEN：数据使能信号
-•LEND：行结束信号
+?VSYNC：垂直同步信号
+?HSYNC：水平同步信号
+?VCLK：象素时钟信号
+?VD[23:0]：LCD像素数据输出端口
+?VDEN：数据使能信号
+?LEND：行结束信号
  
 第2课-2440LCD驱动程序设计
 LCD初始化
@@ -42,7 +42,7 @@ LCD初始化
 LCD图像显示
 （1）     数据显示
 （2）     单色显示
- 
+ ```C
 #define GPCCON (*(volatile unsigned long *)0x56000020)
 #define GPDCON (*(volatile unsigned long *)0x56000030)
 #define GPGCON (*(volatile unsigned long *)0x56000060)
@@ -153,3 +153,4 @@ void lcd_test()
    
     clearSrc(0xff0000);
 }
+```

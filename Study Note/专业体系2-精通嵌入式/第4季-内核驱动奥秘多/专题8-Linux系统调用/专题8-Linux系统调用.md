@@ -9,6 +9,7 @@
 3.      实现新的系统调用
 我们实现的功能就是打印信息。
          我们在开发板的内核程序中找到，printk.c，在其中插入下面的程序：
+```C
 void sys_pk()
 {
          printk(“this is a new sys_call!\n”);
@@ -31,6 +32,7 @@ void main()
 {
     pk();  
 }
+```
 我们这里进行了内嵌汇编语言，由于我们的376超过了8位，这里我们使用ldr伪指令。、
 我们使用静态编译，因为在linux内核文件中，我们并没有进行动态库的移植:
 arm-linux-gcc –static syscall.c –o syscall

@@ -26,6 +26,7 @@ KDIR := /home/free/part3/linux-TQ210
 all:
     make -C $(KDIR) M=$(PWD) modules CROSS_COMPILE=arm-linux- ARCH=arm
 创建新的mylist.c文件：
+```C
 #include<linux/module.h>
 #include<linux/init.h>
 #include<linux/list.h>
@@ -82,6 +83,7 @@ void mylist_exit()
  
 module_init(mylist_init);
 module_exit(mylist_exit);
+```
 运行：
     把编译好的mylist.ko文件导入开发板中，安装，这时就会显示每个学生的学号以及各科成绩。
  

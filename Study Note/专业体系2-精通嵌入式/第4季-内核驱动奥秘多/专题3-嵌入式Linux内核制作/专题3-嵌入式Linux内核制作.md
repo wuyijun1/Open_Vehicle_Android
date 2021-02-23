@@ -20,7 +20,7 @@ Virtual file system（VFS）虚拟模块管理系统
 Network stack 网络协议栈
 Device Drivers（DD）设备驱动程序
 linux内核源代码
-2.1下载地址           www.kernel.org，官方网站
+2.1[下载地址](www.kernel.org)，官方网站
 l  Linux内核源代码采用树形节后进行组织，分场合理地把功能相关的文件都放在同一个目录下，使得程序更具有可读性。
 l  Arch目录：arch是architecture的缩写。内核所支持的每一种cpu体系，在该目录下都有对应的子目录。每个cpu的子目录，又进一步分解为boot，mm，kernel等子目录，分别包含控制系统引导，内存管理，系统调用等。
 l  Documentation：内核的文档

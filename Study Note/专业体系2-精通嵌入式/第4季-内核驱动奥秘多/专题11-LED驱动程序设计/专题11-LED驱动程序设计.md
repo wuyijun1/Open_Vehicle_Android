@@ -1,7 +1,7 @@
 第四季-专题11-LED驱动程序设计 
 
 专题11-LED驱动程序设计
-第1课-字符设备控制
+## 第1课-字符设备控制
 设备控制理论
 （1）作用
 大部分驱动程序除了需要提供读写设备的能力外,还需要具备控制设备的能力。比如: 改变波特率。
@@ -45,6 +45,7 @@ Default:
 // return -EINVAL
 自己动手写驱动
 Led.c
+```C
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/cdev.h>
@@ -108,14 +109,13 @@ static void led_exit()
 {
     cdev_del(&cdev);
     unregister_chrdev_region(devno,1);
-}
- 
- 
+} 
 module_init(led_init);
 module_exit(led_exit);
  
- 
+ ```
 led_app.c
+```C
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -140,9 +140,7 @@ int main(int argc, char *argv[])
      if (cmd == 1)
          ioctl(fd,LED_ON);
      else
-         ioctl(fd,LED_OFF);
-        
-        
+         ioctl(fd,LED_OFF);             
      return 0;
 }
- 
+ ```

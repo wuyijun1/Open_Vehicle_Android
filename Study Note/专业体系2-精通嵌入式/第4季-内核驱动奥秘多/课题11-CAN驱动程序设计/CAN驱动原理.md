@@ -118,7 +118,9 @@ CAN-bus 错误类型
 ![picture文件](Asset/16.png)
 
 
+![picture文件](Asset/17.png)
 
+ ![picture文件](Asset/18.png)
 
 
 
@@ -126,15 +128,13 @@ CAN-bus 错误类型
 
 过载帧
 
-![picture文件](Asset/17.png)
 
- 
-
+ ![picture文件](Asset/19.png)
 帧间隔
-![picture文件](Asset/18.png)
 
 
- 
+![picture文件](Asset/20.png)
+ ![picture文件](Asset/21.png)
 
 
 

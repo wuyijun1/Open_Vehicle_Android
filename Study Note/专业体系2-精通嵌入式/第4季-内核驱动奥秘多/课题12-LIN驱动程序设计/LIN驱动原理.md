@@ -1,6 +1,6 @@
 # [LIN总线知识详解](https://www.2cto.com/kf/201806/754227.html)
 
-
+[LIN Specification Package_V2.0(中文版)](https://www.docin.com/p-1772570023.html)
 什么是LIN总线?
 
 LIN(Local Interconnect Network)总线是基于UART/SCI(通用异步收发器/串行接口)的低成本串行通讯协议。其目标定位于车身网络模块节点间的低端通信，主要用于智能传感器和执行器的串行通信，而这正是CAN总线的带宽和功能所不要求的部分。

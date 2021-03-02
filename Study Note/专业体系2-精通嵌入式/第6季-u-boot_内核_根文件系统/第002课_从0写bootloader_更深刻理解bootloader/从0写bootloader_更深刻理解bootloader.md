@@ -1,689 +1,1083 @@
-课程目录
-UBoot（基于三星A8-s5pv210 ）.zip
-<国嵌+韦东山四期>
-<国嵌 精通嵌入式>
-<第1季-嵌入式的童年>
-第10课-Windows与Linux文件互享
-第11课-TFTP与NFS服务器配置
-第12课-Linux在线升级yum
-第13课-sudo用户管理
-第14课-Linux密码故障排除
-第15课-GCC程序编译
-第16课-开发板介绍
-第17课-开发板串口连接
-第18课-开发板系统安装准备
-第19课-安装Linux到开发板
-第1课-课程规划与学习方法
-第20课-展望未来
-第2课-嵌入式系统概述
-第3课-Linux系统概述
-第4课-红帽Linux定制安装
-第5课-Linux快速体验
-第6课-Linux命令详解
-第7课-Linux文本编辑器
-第8课-Linux网络配置
-第9课-远程登录Linux
-<第0课-培训专用软件包>
-<第10课-Windows与Linux文件互享>
-<第11课-TFTP与NFS服务器配置>
-<第12课-Linux在线升级yum>
-<第13课-sudo用户管理>
-<第14课-Linux密码故障排除>
-<第15课-GCC程序编译>
-<第16课-开发板介绍>
-<第17课-开发板串口连接>
-<第18课-开发板系统安装准备>
-<第19课-安装Linux到开发板>
-<第1课-课程规划与学习方法>
-<第20课-展望未来>
-<第2课-嵌入式系统概述>
-<第3课-Linux系统概述>
-<第4课-红帽Linux定制安装>
-<第5课-Linux快速体验>
-<第6课-Linux命令详解>
-<第7课-Linux文本编辑器>
-<第8课-Linux网络配置>
-<第9课-远程登录Linux>
-<第2季-裸奔吧arm>
-ARM-Tools.tar.gz
-专题0-课程规划与学习方法
-专题10-C语言环境初始化
-专题11-瞻前顾后
-专题1-工欲善其事-必先利其器
-专题2-我从内部看ARM
-专题3-汇编语言得玩转
-专题4-我是bootloader设计师
-专题5-核心初始化
-专题6-点亮指路灯
-专题7-ARM跑快了—时钟初始化
-专题8-不用内存怎么行
-专题9–代码搬移不可少
-<第3季-小应用大智慧>
-第10课-时间编程
-第11课-进程控制理论
-第12课-多进程程序设计
-第13课-无名管道通讯编程
-第14课-有名管道通讯编程
-第15课-信号通讯编程
-第16课-信号量互斥编程
-第17课-信号量同步编程
-第1课-课程规划与学习方法
-第2课-GDB程序调试
-第3课-Coredump程序故障分析
-第4课-Linux应用程序地址布局
-第5课-Linux编程规范
-第6课-静态函数库设计
-第7课-动态函数库设计
-第8课-系统调用方式文件编程
-第9课-库函数方式文件编程
-<第4季-内核驱动奥秘多>
-专题1-课程规划与学习方法
-专题2-U-Boot新手入门
-专题4-嵌入式文件系统
-专题7-Linux内核链表
-专题8-Linux系统调用
-<专题10-字符设备驱动模型>
-第1课-使用字符驱动程序
-第2课-字符设备驱动模型
-第3课-自己动手写驱动
-第4课-字符驱动访问揭秘
-<专题11-LED驱动程序设计>
-第1课-字符设备控制
-第2课-LED驱动程序设计
-<专题3-嵌入式Linux内核制作>
-第1课-Linux内核简介
-第2课-Linux内核配置与编译
-第3课-嵌入式Linux内核制作
-<专题5-内核模块开发>
-第1课-内核模块基础
-第2课-内核模块设计
-第3课-内核模块可选项
-<专题6-Linux内核子系统>
-第1课-Linux内存管理子系统
-第2课-Linux进程管理子系统
-<专题9-Linux驱动开发前奏>
-第1课-驱动开发概述
-第2课-硬件访问技术
-<红帽Linux安装光盘映像>
-rhel-server-6.3-i386-dvd.iso
-<国嵌嵌入式Arm-Linux视频教程(老版)>
-<国嵌课程1 国嵌体验入门班>
-第1天-1（嵌入式系统概述）
-第1天-2（ARM概述）
-第1天-3（Linux介绍）
-第1天-4（6410开发板介绍）
-第1天-嵌入式系统概述.pdf
-第2天-1（BIOS安装）
-第2天-2（嵌入式系统安装）
-第2天-3（QT系统体验）
-第2天-4（Android系统体验）
-第2天-开发板快乐体验.pdf
-第2天-每日必修实验.pdf
-第3天-1（Linux定制安装）
-第3天-2（Linux命令）
-第3天-3（VI使用）
-第3天-4（Linux系统管理）
-第3天-5（Shell编程）
-第3天-6（Qcd功能演示）
-第3天-Linux系统体验.pdf
-第3天-每日必修实验.pdf
-<国嵌课程2 嵌入式LINUX应用开发班>
-Linux 常用C函数（中文版）.htm
-Linux 常用C函数（中文版）.zip
-第1天（编程基础）-1（GCC程序编译）
-第1天（编程基础）-2（GDB程序调试）
-第1天（编程基础）-3（makefile工程管理）
-第1天（编程基础）-每日必修实验.pdf
-第2天（文件编程）-1（系统调用方式访问文件）
-第2天（文件编程）-2（库函数访问文件）
-第2天（文件编程）-3（时间编程）
-第2天（文件编程）-每日必修实验.pdf
-第3天（进程控制）-1（进程控制原理）
-第3天（进程控制）-2（进程控制程序设计）
-第3天（进程控制）-每日必修实验.pdf
-第4天（进程通讯）-1（进程间通讯概述）
-第4天（进程通讯）-2（管道通讯）
-第4天（进程通讯）-3（信号通讯）
-第4天（进程通讯）-4（共享内存通讯）
-第4天（进程通讯）-每日必修实验.pdf
-第5天（进程通讯）-1（消息队列）
-第5天（进程通讯）-2（信号量）
-第5天（进程通讯）-每日必修实验.pdf
-第6天（多线程）-1（线程基础）
-第6天（多线程）-2（多线程程序设计）
-第6天（多线程）-每日必修实验.pdf
-第7天（网络编程）-1（Linux网络概述）
-第7天（网络编程）-2（Linux网络编程基础）
-第7天（网络编程）-3（TCP程序设计）
-第7天（网络编程）-4（UDP网络程序设计）
-第7天（网络编程）-5（并发服务器）
-第7天（网络编程）-每日必修实验.pdf
-<国嵌课程3 国嵌arm精讲班>
-[嵌入式inux国嵌课程3.（基于2440板子的开发视屏）-国嵌arm精讲班（收费的部分）].S3C2440.pdf
-ARM系统精讲班-1-1（ADS集成开发环境）
-ARM系统精讲班-1-2（ARM工作模式）
-ARM系统精讲班-1-3（ARM寄存器）
-ARM系统精讲班-1-4（ARM寻址方式）
-ARM系统精讲班-1-5（ARM汇编指令详解）
-ARM系统精讲班-1-6（ARM伪指令）
-ARM系统精讲班-1-7（（混合编程）
-ARM系统精讲班-1-8（必修实验）
-ARM系统精讲班-2-1（GPIO）
-ARM系统精讲班-2-2（LED控制程序设计）
-ARM系统精讲班-2-3（（LED闪烁）
-ARM系统精讲班-2-4（ARM中断控制系统）
-ARM系统精讲班-2-5（按键控制程序）
-ARM系统精讲班-2-6（必修实验）
-ARM系统精讲班-3-1(ARM时钟体系)
-ARM系统精讲班-3-2(定时器驱动程序设计)
-ARM系统精讲班-4-1(Uart工作原理)
-ARM系统精讲班-4-2(串口驱动程序设计)
-ARM系统精讲班-5-1(ADC驱动程序设计)
-ARM系统精讲班-5-2(触摸屏驱动程序设计)
-ARM系统精讲班-6-1(LCD硬件体系结构)
-ARM系统精讲班-6-2(LCD驱动程序设计1)
-ARM系统精讲班-6-3(LCD驱动程序设计2)
-ARM系统精讲班-6-4(LCD驱动程序演示)
-演示程序
-演示代码(1)
-演示代码(2)
-演示代码(3)
-演示代码(4)
-演示代码
-<国嵌课程4 嵌入式LINUX内核驱动进阶班>
-第1天（内核开发基础）-1（Linux内核简介）
-第1天（内核开发基础）-2（Linux内核源代码）
-第1天（内核开发基础）-3（Linux内核配置与编译）
-第1天（内核开发基础）-4（Linux内核模块开发）
-第1天（内核开发基础）-每日必修实验.pdf
-第2天（U-Boot移植）-1（Bootloader介绍）
-第2天（U-Boot移植）-2（交叉工具链）
-第2天（U-Boot移植）-3（uboot介绍）
-第2天（U-Boot移植）-4（uboot命令）
-第2天（U-Boot移植）-每日必修实验.pdf
-第3天（嵌入式Linux系统构建）-1（嵌入式linux内核制作）
-第3天（嵌入式Linux系统构建）-2（根文件系统制作）
-第3天（嵌入式Linux系统构建）-3（嵌入式文件系统）
-第3天（嵌入式Linux系统构建）-每日必修实验.pdf
-第4天（内存管理子系统）-1（Linux内存管理）
-第4天（内存管理子系统）-2（进程地址空间）
-第4天（内存管理子系统）-3（内核地址空间）
-第4天（内存管理子系统）-4（Linux内核链表）
-第4天（内存管理子系统）-5（Linux内核定时器）
-第4天（内存管理子系统）-每日必修实验.pdf
-第5天（进程管理）-1（LINUX进程控制）
-第5天（进程管理）-2（LINUX进程调度）
-第5天（进程管理）-3（Linux系统调用）
-第5天（进程管理）-4（Proc文件系统）
-第5天（进程管理）-5（内核异常分析）
-第5天（进程管理）-每日必修实验.pdf
-第6天（字符设备驱动）-1（LINUX驱动程序介绍）
-第6天（字符设备驱动）-2（字符设备驱动程序设计）
-第6天（字符设备驱动）-3（字符设备驱动程序实例分析）
-第6天（字符设备驱动）-4（竞争与互斥）
-第6天（字符设备驱动）-每日必修实验.pdf
-第7天（高级字符设备驱动）-1（Ioctl设备控制）
-第7天（高级字符设备驱动）-2（内核等待队列）
-第7天（高级字符设备驱动）-3（阻塞型字符设备驱动）
-第7天（高级字符设备驱动）-4（Poll设备方法）
-第7天（高级字符设备驱动）-5（自动创建设备文件）
-第7天（高级字符设备驱动）-每日必修实验.pdf
-第8天（硬件访问）-1（Mmap设备方法）
-第8天（硬件访问）-2（硬件访问）
-第8天（硬件访问）-3（混杂设备驱动）
-第8天（硬件访问）-4（LED驱动程序设计）
-第8天（硬件访问）-5（LED操作）
-第8天（硬件访问）-每日必修实验.pdf
-<国嵌课程5 国嵌内核驱动深入班>
-[国嵌课程5.-内核驱动深入班].Universal.Serial.Bus.Specification.v2[1].0((USB.2.0).pdf
-H264监控系统-1(项目准备)
-USB总线接口开发指南.pdf
-安全文件传输系统1(项目准备)
-安全文件传输系统3(系统设计)
-第1天（硬件访问）演示代码
-第2天（设备模型）演示代码
-第5天（块设备驱动程序）
-第7天（USB系统架构）
-第8天（LINUX.USB系统）
-国嵌内核驱动深入班-3-3(CS8900网卡驱动程序分析)
-国嵌内核驱动深入班-3-4(Input输入型驱动程序设计）
-国嵌内核驱动深入班-3-5(触摸屏驱动程序)
-国嵌内核驱动深入班-4-1(PCI总线概述)
-国嵌内核驱动深入班-4-2(PCI驱动程序设计)
-国嵌内核驱动深入班-4-3(终端控制台体系)
-国嵌内核驱动深入班-4-4(串口驱动程序设计)
-国嵌内核驱动深入班-5-1(块设备简介)
-国嵌内核驱动深入班5-1-1（Mmap设备方法）
-国嵌内核驱动深入班5-1-2（硬件访问）
-国嵌内核驱动深入班5-1-3（混杂设备驱动）
-国嵌内核驱动深入班5-1-4（LED驱动程序设计）
-国嵌内核驱动深入班5-1-5（LED操作）
-国嵌内核驱动深入班5-1-6（必修实验）
-国嵌内核驱动深入班-5-2(块设备驱动程序设计)
-国嵌内核驱动深入班5-2-1(kobject)
-国嵌内核驱动深入班5-2-2(Kset)
-国嵌内核驱动深入班5-2-3(总线设备驱动模型)
-国嵌内核驱动深入班5-2-4(platform驱动程序设计)
-国嵌内核驱动深入班5-2-5(中断处理)
-国嵌内核驱动深入班5-2-6(按键驱动程序设计)
-国嵌内核驱动深入班-5-3(SD卡测试)
-国嵌内核驱动深入班-6-1(LCD驱动程序简介)
-国嵌内核驱动深入班-6-2(LCD驱动程序设计)
-国嵌内核驱动深入班-6-3(LCD驱动程序设计)
-国嵌内核驱动深入班-6-4(LCD驱动程序测试)
-国嵌内核驱动深入班-7-1（USB简介）
-国嵌内核驱动深入班-7-2（USB系统结构）
-国嵌内核驱动深入班-7-3（USB描述符）
-国嵌内核驱动深入班-7-4（USB数据传输）
-国嵌内核驱动深入班-7-5（USB设备枚举）
-国嵌内核驱动深入班-8-1（Linux-USB系统架构）
-国嵌内核驱动深入班-8-2（MassStorage）
-国嵌内核驱动深入班-8-3（USB-HID）
-国嵌内核驱动深入班-8-4（RNDIS）
-国嵌内核驱动深入班-8-5（CDC-ACM）
-国嵌内核驱动深入班-9-1（Linux-USB驱动简介）
-国嵌内核驱动深入班-9-2（Linux-USB描述符）
-国嵌内核驱动深入班-9-3（USB-URB）
-国嵌视频-USB3.4（USB鼠标驱动分析）
-实验代码
-演示程序
-演示代码(1)
-演示代码
-移动图像监控系统1(项目准备)
-移动图像监控系统2(项目需求)
-移动图像监控系统3(系统设计)
-<国嵌课程6 高级项目班>
-link.html
-嵌入式Linux高级项目试验手册及SDK.zip
-项目1(H.264远程视频监控)
-项目2(移动图像监控系统)
-项目3(安全文件传输系统)
-项目4(嵌入式MP3播放器)
-<学习方法视频>
-嵌入式Linux学习方法
-嵌入式Linux学习方法.pdf
-<嵌入式项目实战合集>
-<Linux下串口与工业协议开发>
-Linux下串口与工业协议开发2.rmvb
-Linux下串口与工业协议开发3.rmvb
-Linux下串口与工业协议开发4.rmvb
-Linux下串口与工业协议开发6.rmvb
-<tiny6410的SD卡MP3播放器系统>
-申嵌实战项目实验篇 – 基于mini6410_tiny6410的SD卡MP3播放器系统
-<tiny6410的WEB远程视频实时监控系统>
-申嵌实战项目实验篇 – 基于mini6410_tiny6410的WEB远程视频实时监控系统
-<嵌入式boa视频服务器项目>
-45-嵌入式boa视频服务器项目指导(一)
-46-嵌入式boa视频服务器项目指导(二)
-47-嵌入式boa视频服务器项目指导(三)
-48-嵌入式boa视频服务器项目指导(四)
-<智能家居项目>
-第24讲 智能网络家居系统制作(后补)
-<韦东山 嵌入式 第四期>
-第2课 openWRT.zip
-第2课第2.1_1节 openWRT初体验_openWRT介绍
-第2课第2.1_2节 openWRT初体验_下载配置编译烧写
-第2课第2.2节 添加Web界面
-第2课第2.3节 工作于AP、STA模式
-第3课 驱动开发.zip
-第3课第3.1_1节 驱动开发之准备工作
-第3课第3.1_2节 驱动开发之Hello World
-第3课第3.2_1节 驱动开发之电机、蜂鸣器硬件原理
-第3课第3.2_2节 驱动开发之电机、蜂鸣器驱动实现
-第3课第3.2_3节 驱动开发之libncurses简单应用
-第3课第3.2_4节 驱动开发之串口控制WIFI小车
-第3课第3.2_5节 串口控制WIFI小车效果演示
-第3课第3.3_1节 驱动开发之温度传感器DS18B20硬件原理
-第3课第3.3_2节 驱动开发之温度传感器DS18B20驱动实现_框架
-第3课第3.3_3节 驱动开发之温度传感器DS18B20驱动实现_时序讲解
-第3课第3.3_4节 驱动开发之温度传感器DS18B20驱动编译调试
-第4课 局域网监控
-第4课第4.1节 WEB网页监控实现
-第4课第4.2节 支持自制摄像头
-第4课第4.3_1节 通过WIFI控制小车_框架
-第4课第4.3_2节 通过WIFI控制小车_实现
-第4课第4.3_3节 通过WIFI控制小车_效果演示
-第4课第4.4节 QT编程
-第4课第4.5_1节 QT客户端_实现
-第4课第4.5_2节 QT客户端_编译调试
-第4课第4.6节 opencv的简单使用
-<网络公开课>
-20140904_怎么学习第1期裸板视频_1
-20140904_怎么学习第1期裸板视频_2
-20140904_怎么学习第1期裸板视频_3
-20140911_裸板程序的核心概念及结构_1
-20140911_裸板程序的核心概念及结构_2
-20140918_Linux驱动概述
-20140918_Linux驱动概述.jpg
-20141023_答疑汇总.doc
-20141023_只会单片机如何快速入行嵌入式Linux.jpg
-20141023_只会单片机如何快速入行嵌入式Linux
-20141030_交叉编译应用程序
-20141030_交叉编译应用程序_还有更新版本在进行中.TXT
-20141106_使用2440来入门，换了内核换了硬件后，怎么办？.TXT
-20141106_在新内核新硬件上开发驱动1
-20141106_在新内核新硬件上开发驱动2
-20141120_Linux的堆实现细节.jpg
-20141120_Linux堆的实现细节
-20141120_栈回溯技术及uClibc的堆实现原理.doc
-20141127_进程间通信.jpg
-20141127_进程间通信
-c51实现的手机程序suntown
-<现场答疑视频>
-20121111答疑班第1节_Kbuild和怎么改源码适应自己的板子
-20121111答疑班第2节_确定设备地址和时序1
-20121111答疑班第2节_确定设备地址和时序2
-20121111答疑班第3节_hotplug
-20121111答疑班第4节_DMA
-20121111答疑班第5节_NAND
-栈回溯技术及uClibc的堆实现原理.doc
-<麦可网 嵌入式底层驱动开发>
-0 目录.png
-1 目录.png
-2 目录.png
-3 目录.png
-4 目录.png
-<麦可网>
-<0 从零开始认识开发板>
-01 – 从零开始认识开发板1
-02 – 从零开始认识开发板2
-03 – 从零开始认识开发板3
-04 – 从零开始认识开发板4
-05 – 从零开始认识开发板5
-<1 Linux操作系统基础>
-01 – 说在前面的话1
-02 – 说在前面的话2
-03 – 说在前面的话3
-04 – 说在前面的话4
-05 – 计算机组成原理概述1
-06 – 计算机组成原理概述2
-07 – 计算机组成原理概述3
-08 – Linux基础及操作系统框架1
-09 – Linux基础及操作系统框架2
-10 – Linux基础及操作系统框架3
-11 – Linux基础及操作系统框架4
-12 – Shell命令机制1
-13 – Shell命令机制2
-14 – Shell命令机制3
-15 – Shell命令机制4
-16 – Linux命令类库机制及常用命令_命令操练1
-17 – 命令操练2
-18 – 命令操练3
-19 – 命令操练4
-20 – 命令操练5
-21 – 命令操练6
-22 – 命令操练7
-23 – 命令操练8
-24 – 命令操练9
-25 – 命令操练10
-26 – 命令操练11
-27 – Linux应用程序安装及卸载1
-28 – Linux应用程序安装及卸载2
-29 – Linux应用程序安装及卸载3
-30 – Linux应用程序安装及卸载4
-31 – Linux应用程序安装及卸载5
-32 – Linux服务程序的安装及配置1
-33 – Linux服务程序的安装及配置2
-34 – Linux服务程序的安装及配置3
-35 – Linux服务程序的安装及配置4
-36 – Vi的设计思想及使用1
-37 – Vi的设计思想及使用2
-38 – Vi的设计思想及使用3
-<2 Linux应用系统开发>
-001 – GNU开发环境基础1
-002 – GNU开发环境基础2
-003 – GNU开发环境基础3
-004 – GNU开发环境基础4
-005 – GNU开发环境基础_gcc编译1
-006 – GNU开发环境基础_gcc编译2
-007 – GNU开发环境基础_gcc编译3
-008 – GNU开发环境基础_gdb
-009 – GNU开发环境基础_Makefile1
-10 – GNU开发环境基础_Makefile2
-11 – GNU开发环境基础_Makefile3
-12 – GNU开发环境基础_Autotools1
-14 – GNU开发环境基础_Autotools3
-15 – GNU开发环境基础_EclipseForLinux
-16 – Linux高级程序_IO操作1
-17 – Linux高级程序_IO操作2
-18 – Linux高级程序_IO操作3
-19 – Linux高级程序_IO操作4
-20 – Linux高级程序_IO操作5
-21 – Linux高级程序_IO操作6
-22 – Linux高级程序_IO操作7
-23 – Linux高级程序_IO操作8
-24 – Linux高级程序_IO操作9
-25 – Linux高级程序_IO操作_lock1
-26 – Linux高级程序_IO操作_lock2
-27 – Linux高级程序_IO操作_lock3
-28 – Linux高级程序_IO操作_dir1
-29 – Linux高级程序_IO操作_dir2
-30 – Linux高级程序_IO操作_dir3
-31 – Linux高级程序_进程管理1
-32 – Linux高级程序_进程管理2
-33 – Linux高级程序_进程管理3
-34 – Linux高级程序_进程管理4
-35 – Linux高级程序_进程管理5
-36 – Linux高级程序_进程管理6
-37 – Linux高级程序_进程管理_Daemon1
-38 – Linux高级程序_进程管理_Daemon2
-39 – Linux高级程序_进程管理_Daemon3
-40 – Linux高级程序_进程间通信_Pipe1
-41 – Linux高级程序_进程间通信_Pipe2
-42 – Linux高级程序_进程间通信_Pipe3
-43 – Linux高级程序_进程间通信_Fifo1
-44 – Linux高级程序_进程间通信_Fifo2
-45 – Linux高级程序_进程间通信_Signal1
-46 – Linux高级程序_进程间通信_Signal2
-47 – Linux高级程序_进程间通信_Signal3
-48 – Linux高级程序_进程间通信_SHM1
-49 – Linux高级程序_进程间通信_SHM2
-50 – Linux高级程序_进程间通信_SHM3
-51 – Linux高级程序_进程间通信_MsgQueue1
-52 – Linux高级程序_进程间通信_MsgQueue2
-53 – Linux高级程序_进程间通信_Semaphore1
-54 – Linux高级程序_进程间通信_Semaphore2
-55 – 线程_Thread1
-56 – 线程_Thread2
-57 – 线程_Thread3
-58 – 网络编程_Concept1
-59 – 网络编程_Concept2
-60 – 网络编程_Concept3
-61 – 网络编程_Concept4
-62 – 网络编程_TCPIP编程基础1
-63 – 网络编程_TCPIP编程基础2
-64 – 网络编程_TCPIP编程基础3
-65 – 网络编程_TCPIP编程基础4
-66 – 网络编程_TCPIP编程基础5
-67 – 网络编程_TCPIP编程基础6
-68 – 网络编程_HTTP原理1
-69 – 网络编程_HTTP原理2
-70 – 网络编程_HTTP原理3
-71 – 网络编程_HTTP原理4
-72 – 网络编程_HTTP原理5
-73 – 网络编程_HTTP原理6
-74 – 网络编程_Socket内核跟踪1
-75 – 网络编程_Socket内核跟踪2
-<3 ARM嵌入式开发裸板篇>
-01 – ARM准备工作及熟悉开发板1
-02 – ARM准备工作及熟悉开发板2
-03 – ARM准备工作及熟悉开发板3
-04 – ARM准备工作及熟悉开发板4
-05 – 原理图及电路图1
-06 – 原理图及电路图2
-07 – 原理图及电路图3
-08 – ARM世界
-09 – 开发环境搭建1
-10 – 开发环境搭建2
-100 – 中断流程代码1
-101 – 中断流程代码2
-102 – 中断流程代码3
-103 – IIC协议介绍1
-104 – IIC协议介绍2
-105 – IIC协议介绍3
-106 – IIC协议介绍4
-107 – IIC协议介绍5
-108 – IIC协议介绍6
-109 – watchdog介绍1
-11 – 补充Linux装Sourceinsight
-110 – watchdog介绍2
-111 – RTC介绍
-112 – PWM介绍1
-113 – PWM介绍2
-114 – PWM介绍3
-115 – ADC介绍1
-116 – ADC介绍2
-117 – ARM硬件接口项目介绍1
-118 – ARM硬件接口项目介绍2
-119 – ARM硬件接口项目介绍3
-12 – 补充MinITool烧写开发板-11.30更新工具
-120 – ARM硬件接口项目介绍4
-121 – ARM硬件接口项目介绍5
-122 – ARM硬件接口项目介绍6
-123 – ARM硬件接口项目介绍7
-13 – ARM体系结构-学习方法
-14 – ARM体系结构-处理器和名词1
-15 – ARM体系结构-处理器和名词2
-16 – ARM体系结构-工具和交叉工具链
-17 – 处理器模式和片内寄存器1
-18 – 处理器模式和片内寄存器2
-19 – 处理器模式和片内寄存器3
-20 – 处理器模式和片内寄存器4
-21 – ARM汇编寻址模式1
-22 – ARM汇编寻址模式2
-23 – ARM汇编寻址模式3
-24 – ARM汇编算数操作1
-25 – ARM汇编算数操作2
-26 – ARM汇编算数操作3
-27 – ARM汇编算数操作4
-28 – ARM汇编内存操作1
-29 – ARM汇编内存操作2
-30 – 跳转指令及其它1
-31 – 跳转指令及其它2
-32 – ARM汇编伪指令1
-33 – ARM汇编伪指令2
-34 – ARM汇编伪指令3
-35 – ARM汇编伪指令4
-36 – 混合编程1
-37 – 混合编程2
-38 – ARM硬件基础概述1
-39 – ARM硬件基础概述2
-40 – ARM硬件基础概述3
-41 – ARM硬件基础-SIMD&NEON
-42 – ARM硬件基础-Cache1
-43 – ARM硬件基础-Cache2
-44 – ARM硬件基础-MMU1
-45 – ARM硬件基础-MMU2(1)
-45 – ARM硬件基础-MMU2
-46 – ARM硬件基础-MMU3
-47 – ARM异常及中断1
-48 – ARM异常及中断2
-49 – 第一个裸板试验1
-50 – 第一个裸板试验2
-51 – S5PV210启动原理1
-52 – S5PV210启动原理2
-53 – ARM硬件接口GPIO1
-54 – ARM硬件接口GPIO2
-55 – ARM硬件接口GPIO3
-56 – ARM硬件接口GPIO4
-57 – ARM硬件接口GPIO5
-58 – ARM硬件接口开发前言
-59 – ARM硬件接口开发简介
-60 – 确定开发板资源1
-61 – 确定开发板资源2
-62 – 确定开发板资源3
-63 – 确定开发板资源4
-64 – 驱动开发板资源5
-65 – 驱动开发板资源6
-66 – 驱动开发板资源7
-67 – bootloader概述1
-68 – bootloader概述2
-69 – bootloader概述3
-70 – bootloader概述4
-71 – bootloader概述5
-72 – C5工程搭建Makefile1
-73 – C5工程搭建Makefile2
-74 – C5工程搭建Makefile3
-75 – 工程搭建链接脚本录像1
-76 – 工程搭建链接脚本录像2
-77 – 工程搭建C代码点灯录像1
-78 – 工程搭建C代码点灯录像2
-79 – 工程搭建C代码点灯录像3
-80 – 通信模型介绍录像1
-81 – 通信模型介绍录像2
-82 – UART协议介绍录像1
-83 – UART协议介绍录像2
-84 – UART协议介绍录像3
-85 – UART控制器介绍录像1
-86 – UART控制器介绍录像2
-87 – 通过串口发送一个字符录像1
-88 – 通过串口发送一个字符录像2
-89 – 通过串口发送一个字符录像3
-90 – 通过串口发送一个字符录像4
-91 – 通过串口发送一个字符串1
-92 – 通过串口发送一个字符串2
-93 – 中断介绍1
-94 – 中断介绍2
-95 – 中断介绍3
-96 – 中断介绍4
-97 – 中断初始化代码1
-98 – 中断初始化代码2
-99 – 中断初始化代码3
-<4 ARM嵌入式开发Linux内核骗>
-01 – 开篇的话1
-02 – 开篇的话2
-03 – 开篇的话3
-04 – 内核开发初探1
-05 – 内核开发初探2
-06 – 内核开发初探3
-07 – Linux内核的基本概念1
-08 – Linux内核的基本概念2
-09 – Linux内核的基本概念3
-10 – Linux内核的基本概念4
-11 – Linux内核的基本概念5
-12 – Linux驱动程序开发基础1
-13 – Linux驱动程序开发基础2
-14 – Linux驱动程序开发基础3
-15 – Linux驱动程序开发基础4
-16 – Linux驱动程序开发基础5
-17 – LED设备驱动1
-18 – LED设备驱动2
-19 – LED设备驱动3
-20 – LED设备驱动4
-21 – LED设备驱动5
-22 – RTC驱动1
-23 – RTC驱动2
-24 – RTC驱动3
-25 – RTC驱动4
-26 – 电容触摸屏驱动1
-28 – 电容触摸屏驱动3
-29 – 电容触摸屏驱动4
-30 – 网络设备驱动1
-31 – 网络设备驱动2
-32 – 网络设备驱动3
-33 – 网络设备驱动4
-34 – 网络设备驱动5
-35 – 网络设备驱动6
-36 – 声卡驱动1
-37 – 声卡驱动2
-38 – 声卡驱动3
-39 – 声卡驱动4
-40 – 声卡驱动5
-41 – 声卡驱动6
-42 – LCD驱动1
-43 – LCD驱动2
-44 – LCD驱动3
-45 – LCD驱动4
-46 – LCD驱动5
-47 – LCD驱动6
-48 – LCD驱动7
-49 – LCD驱动8
-50 – LCD驱动9
-51 – LCD驱动10
-52 – nandflash驱动1
-53 – nandflash驱动2
-54 – nandflash驱动3
-55 – nandflash驱动4
-56 – nandflash驱动5
-57 – nandflash驱动6
-58 – 驱动课程总结提高
+# [从零开始构建bootloader（基于韦东山JZ2440V3开发板）](https://blog.csdn.net/liangzc1124/article/details/112410745)
+对比理解u-boot
+对于常用的电脑：
+1、一上电启动BIOS：目的是引导操作系统
+2、操作系统：识别出各种硬盘
+3、通过硬盘运行各种应用程序
+
+对于嵌入式Linux开发板
+1、一上电启动bootloader：目的是启动内核
+2、内核启动之后，挂接根文件系统
+3、通过根文件系统可以运行各种应用程序
+![picture ](Asset/0.png )
+我们可以把bootloader理解成一个复杂的单片机程序，它主要实现以下功能：
+![picture ](Asset/001.png )
+`项目步骤`：
+
+第一阶段：
+
+1、关看门狗；
+2、时钟初始化；
+3、内存初始化；
+4、NandFlash初始化；
+5、代码重定位（将flash中的代码复制到指定的内存地址处，也即代码段链接地址）；
+6、跳转到main函数；
+
+第二阶段：
+
+7、写main函数，在函数中设置要传给内核的参数；
+8、跳转到内核入口，启动内核
+9、制作链接脚本
+
+第三阶段：
+
+10、编写Makefile文件
+11、下载编译和运行
+
+## 1、编写start.S文件，初始化片上硬件
+
+本文件需要完成的目标：
+
+**1.**关看门狗
+
+**2.**设置时钟
+
+**3.**开启指令缓存，初始化SDRAM
+
+**4.**重定位(把bootloader本身的代码从flash复制到它的链接地址(c函数编写),然后清空bss段(c函数编写))
+
+**5.**跳转到main函数。
+
+```AL
+#define CLKDIVN		0X4C000014	/*设置FCLK:HCLK:PCLK的比例*/
+#define MPLLCON		0x4C000004	/*设置FCLK频率*/
+#define S3C2440_MPLL_200MHZ     ((0x5c<<12)|(0x01<<4)|(0x02))
+#define S3C2440_MPLL_400MHZ     ((0x5c<<12)|(0x01<<4)|(0x01))
+
+#define WTCON	0x53000000		/*看门狗寄存器*/
+#define BWSCON	0X48000000		/*BANK寄存器*/
+
+.text					/*设置代码段*/
+.global _start			/*定义全局变量，要被链接脚本用到*/
+_start:					/*_start跳转到这里实现硬件初始化*/
+
+	/* 1.关看门狗*/
+	ldr r0, =WTCON
+	mov r1, #0
+	str r1, [r0]
+
+	/* 2.设置时钟（必须设为异步总线模式） */
+	ldr r0, =CLKDIVN
+	mov r1, #5			/* FCLK:HCLK:PCLK=1:4:8 */
+	str r1, [r0]
+
+	mrc	p15, 0, r1, c1, c0, 0	/*设置为asynchronous bus mode*/
+	orr	r1, r1, #0xc0000000
+	mcr	p15, 0, r1, c1, c0, 0
+ 
+	ldr r0, =MPLLCON			/* 设置时钟频率FCLK为400MHZ */
+	ldr r1, =S3C2440_MPLL_400MHZ
+	str r1, [r0]
+
+	/* 3.使能ICache，加快指令访问速度；因为目前没有开启MMU，所以还不能开启数据缓存DCache */
+	mrc p15, 0, r0, c1, c0, 0	/* read control reg */
+	orr r0, r0, #(1<<12)
+	mcr	p15, 0, r0, c1, c0, 0   /* write it back */
+
+
+	/* 4.初始化SDRAM */
+	ldr r0, =BWSCON
+	adr r1, sdram_config     	/* 使用adr跳转，因为SDRAM未初始化 */
+	add r3, r0, #(13*4)
+1:
+	ldr r2, [r1], #4
+	str r2, [r0], #4
+	cmp r0, r3
+	bne 1b						/*back to 1 when no equal*/
+
+	/* 4.重定位 */
+	ldr sp, =0x34000000			/*因为SDRAM大小为64MB，所以堆栈指针设在最高地址处*/
+
+	bl nand_init
+
+	mov r0, #0					/* src = r0 */
+	ldr r1, =_start				/* dest = r1,_start为代码段的起始和链接地址0x30000000 */
+	ldr r2, =__bss_start
+	sub r2, r2, r1				/* len = r2,代码段长度*/
+	
+	bl copy_code_to_sdram		/* 调用C函数copy_code_to_sdram(src, dest, len)*/
+	bl clear_bss				/* 清除bss段*/
+	
+/* 5.执行main */
+	ldr lr, =halt
+	ldr pc, =main
+	mov pc，lr					/* 若main函数跳出后,使PC等于lr链接寄存器，避免程序跑飞 */
+halt:
+	b halt						/* 死循环,避免跑飞 */
+
+sdram_config:
+	.long 0x22011110	 //BWSCON
+	.long 0x00000700	 //BANKCON0
+	.long 0x00000700	 //BANKCON1
+	.long 0x00000700	 //BANKCON2
+	.long 0x00000700	 //BANKCON3  
+	.long 0x00000700	 //BANKCON4
+	.long 0x00000700	 //BANKCON5
+	.long 0x00018005	 //BANKCON6
+	.long 0x00018005	 //BANKCON7
+	.long 0x008C04F4	 // REFRESH
+	.long 0x000000B1	 //BANKSIZE
+	.long 0x00000030	 //MRSRB6
+	.long 0x00000030	 //MRSRB7
+
+
+```
+
+关于时钟频率的设置解释：
+
+将CPU频率设为最大值400MHZ(内核启动时间7S变为6S,因为HCLK和PCLK频率没有改变)
+然后分频系数FCLK:HCLK:PCLK需要设置为1:4:8。
+因为HCLK最高133MHZ,这里需要设置为100MHZ，PCLK最高50MHZ，所以这里需要设置为50HZ，所以得出 CLKDIVN寄存器需要等于0X5即可。
+具体为什么等于0x5，可以参考下图：
+![picture](Asset/1.png)
+通过查看数据手册，得知当FCLK取400MHZ时,设置MDIV为0X5C，PDIV为0x1,SDIV为0x1。
+
+关于Cache的设置解释：
+
+通过高速缓存存储器可以加快对内存的数据访问,在CAHE中有ICAHE（指令缓存）和DCAHE（数据缓存）：
+**ICAHE: ** 指令缓存,用来存放执行这些数据的指令；
+**DCAHE: **用来存放数据,需要开启MMU才能开启DCAHE。
+在没开启ICAHE之前,CPU读取SDRAM地址数据时,每次都需要先访问一次地址值,在读数据.
+当开了ICAHE后,第一次读取SDRAM地址数据时,ICAHE发现缓存里没有这个地址数据,然后将SDRAM中需要读取的那部分一大块内存数据都复制在缓存中,后面陆续读取数据就不会再访问SDRAM了,直到CPU没有找到地址数据后ICAHE再从SDRAM中重新复制
+
+通过CP15协处理器来开启ICAHE：ICAHE控制位在CP15的寄存器C1中位12(如下图), 然后通过MRS和MSR向该位12置1,开启ICAHE.所以代码如下(放在SDRAM初始化之前):
+```AL
+ mrc p15, 0, r0, c1, c0, 0      //将 CP15 的寄存器 C1 的值读到 r0 中
+ orr r0, r0, #(1<<12)         //将r0中位12置1     
+ mcr p15,0, r0,c1,c0,0        //开启ICAHE
+```
+
+## 2、编写init.c，用于重定位,bss段清除,初始化NandFlash
+
+### （1）编写nand_init()函数
+准备知识：
+
+我使用的NandFlash型号为K9F2G08U0M，通过查阅芯片手册获知该flash大小=2048块Block=128KPages=256MB=2Gb 。且其构成为：
+
+1个设备=2048（Block）
+
+1块Block=64（Pages）
+
+1页=(2K+64)（Byte） 因为每个地址里都存放了一个字节,所以用Byte表示，其中64B是存放ECC的OOB地址,(ECC:存放判断位反转的校验码)
+
+![picture](Asset/2.png)
+
+写过程：
+写页
+生成校验码ECC
+写校验码到OOB页中
+读过程：
+读出页数据，并计算当前数据的ECC
+读出存在OOB页里的原始ECC
+比较两个校验码，相同则读成功，不同则出现了位反转，需重新读取。
+
+![picture](Asset/3.png)
+
+![picture](Asset/4.png)
+
+确定通信时序：
+
+![picture](Asset/5.png)
+
+![picture](Asset/6.png)
+![picture](Asset/7.png)
+通过图2和图1可以看出:
+tCS：等待芯片使能CE的时间, tCS=20nS
+
+tCLS和tALS：等待WE（写信号）结束的时间, tCLS=tALS=15nS
+
+tWP：WE（写信号）维持时间, tWP=15nS
+
+tALH：等待命令写入成功的时间, tALH=5nS
+
+tCLH：等待地址写入成功的时间, tCLH=5nS
+
+通过查看2440芯片手册，nandflash时序图,需要设置TACLS，TWRPH0和TWRPH1
+TACLS：属于等待WE(写信号)就绪的时间,对比图2得出TACLS= tCLS- tWP=0nS
+
+TWRPH0：属于WE(写信号)的时间, 对比图2得出TWRPH0= tWP=15nS
+
+TWRPH1：属于等待命令写入成功的时间,对比图2得出TWRPH1=tALH=tCLH=5nS
+
+在NFCONF寄存器中设置这三个参数
+TACLS[13:12] ：表示Duration(持续时间)=HCLK*TACLS,由于Duration=0nS，所以TACLS=0
+
+TWRPH0 [10:8] ：表示Duration(持续时间)=HCLK*( TWRPH0+1),由于Duration=15nS，HCLK=10nS(100Mhz),所以TWRPH0 =1.
+
+TWRPH1 [6:4] ：表示Duration(持续时间)= HCLK*( TWRPH1 +1),由于Duration=5nS，HCLK=10nS(100Mhz),所以TWRPH1 =0
+```AL
+/* nand flash  时序 */#define TACLS      0
+#define TWRPH0     1
+#define TWRPH1     0
+
+/*     nand  flash  寄存器       */
+#define   NFCONF     *((volatile unsigend long *)0X4E000000); //配置寄存器(用来设置时序)
+#define   NFCONT     *((volatile unsigend long *)0X4E000000); //控制寄存器(用来使能nandflash控制器以及ECC编码器,还有控制芯片使能CE脚)
+#define   NFCMMD    *((volatile unsigend char *)0X4E000000);//发送命令寄存器(命令只有8位)
+#define   NFADDR     *((volatile unsigend char *)0X4E000000);//发送地址寄存器(地址只有8位)
+#define   NFDATA      *((volatile unsigend int *)0X4E000000);//读/写数据寄存器(数据只有8位)
+#define   NFSTAT      *((volatile unsigend int *)0X4E000000);//运行状态寄存器(用于判断RnB脚)
+
+/*因为Nand Flash只有8位I/O脚，所以NFCMMD/ NFADDR/ NFDATA三个寄存器值都是unsigend char型  */
+
+void nand_init(void)
+{
+
+ /* 设置时序 */
+NFCONF = (TACLS<<12)|(TWRPH0<<8)|(TWRPH1<<4);
+
+/* bit4=1:初始化ECC,  bit1=1:禁止片选  bit0=1:启动nandflash控制器*/    
+NFCONT = (1<<4)|(1<<1)|(1<<0);
+
+}
+```
+
+（2）编写nand_read()函数
+在实现nand_read()函数前，还需要实现以下几个子函数：nand_select()、nand_deselect()、nand_cmd()、nand_waite_idle()、nand_read_data();
+
+1. 片选使能函数(在读写FLASH之前都要选中片选)
+void nand_select(void)               //使能片选
+{
+	int i;
+	NFCONT&=~(1<<1);        // NFCONT控制器位1置0
+	for(i=0;i<10;i++);           //等待芯片使能成功
+}
+
+2. 取消片选函数(在退出读写FLASH时要取消片选)
+void nand_deselect(void)                 //取消片选
+{
+	int i;
+	NFCONT&=~(1<<1);        // NFCONT控制器位1置0
+	for(i=0;i<10;i++);           //等待芯片使能成功
+}
+
+3. nand写命令
+void nand_cmd(unsigned char cmd)
+{
+	volatile int i;
+	NFCMMD = cmd;
+	for (i = 0; i < 10; i++);
+}
+
+4. 判断RnB状态函数(在写入所有命令后都要判断RnB脚是否为高电平就绪)
+void nand_wait_ready(void)
+{
+	while (!(NFSTAT & 1));
+}
+
+5. 读数据命令
+unsigned char nand_data(void)
+{
+	return NFDATA;
+}
+
+6. 写地址命令
+首先Nand Flash引脚只有8位,然而地址共有2048(块)*64(页)*2KB,为了读出多个地址,如下图,所以需要分5个周期来实现发送地址:
+
+![picture](Asset/8.png)
+
+如上图,其中 A10~A0对应页大小(列),由于nandflash每页2048B，所以只用到A10~A0;
+
+A28~A11对应页目录(行),表示共有2048块*64(每块有64页)个目录
+
+例如，4097 地址就是：
+
+A10~A0=4097%2048= 1(A0=1，其余为0)
+
+A28~A11=4097/2048=2（A13=1，其余为0）
+```AL
+void nand_addr(unsigned int addr)
+{
+	unsigned int col  = addr % 2048;
+	unsigned int page = addr / 2048;
+	volatile int i;
+
+	NFADDR = col & 0xff;		/* A7~A0,第1周期 */
+	for (i = 0; i < 10; i++);
+    
+	NFADDR = (col >> 8) & 0xff;	/* A10~A8,第2周期 */
+	for (i = 0; i < 10; i++);
+	
+	NFADDR  = page & 0xff;		/* A18~A11,第3周期 */
+	for (i = 0; i < 10; i++);
+    
+	NFADDR  = (page >> 8) & 0xff;	/* A26~A19,第4周期 */
+	for (i = 0; i < 10; i++);
+    
+	NFADDR  = (page >> 16) & 0xff;	/* A27~A28,第5周期 */
+	for (i = 0; i < 10; i++);	
+}
+```
+
+7. nand 读数据命令
+
+![picture](Asset/9.png)
+如上图，例如:当要reset复位nand flash时：
+
+使能片选nand_select();
+
+发送0XFF复位命令nand_cmd(0xFF);
+
+等待RnB状态是否就绪 nand_wait_idle();
+
+取消片选 nand_deselect();
+
+![picture](Asset/10.png)
+
+nand flash 读数据分为了以下几个步骤:
+
+(1) 使能片选CE,将CLE置1,等待发送命令
+
+(2) 将WE置低,将IO置为0X00,然后拉高WE,触发一次上升沿,则将把0x00写入flash中
+
+(3) 将CLE置0,表示发送地址(分为5个周期)
+
+(4) 发送读命令0X30
+
+(5) 等待RnB信号为高电平
+
+(6) 读数据(在同一页里，数据可以连续读,读下一页时，需要重新发送新的地址才行例如:读1000地址到2050地址时,
+
+1.发出1000地址,到达页0的1000地址上,然后再连续读(2048-1000)次，直到读到页0的2047处.
+
+2.再发出2048地址，到达页1的0地址上,然后连续读(2051-2048)次,直到读到2050为止)
+
+(7) 取消片选nCE
+* 
+* src:源地址,为32位地址,所以用unsigend int表示
+* dest:目的地址内容,由于这里是将数据读出到目的地址内容中,所以需要用到*指针,
+*	   因为每个地址里存的是一个字节,所以用unsigend char型 
+*/
+void nand_read(unsigned int  src,unsigned char  *dest,unsigned int  len)
+{
+
+int col = src % 2048;      //第一次读，可能不是读的页首地址,所以需要记录当前页的位置
+int i=0;                //当前读了0次
+
+nand_select();           //1使能片选nCE     
+while(i<len)
+{ 
+    nand_cmd(0X00);         //2发送读命令0X00  
+    nand_addr(src);     	// 3发送yuan地址(分为5个周期)
+    nand_cmd(0X30);         //4发送读命令0X30    
+    nand_wait_idle();       //5等待RnB信号为高电平
+
+   for(;(col<2048)&&(i<len);col++)      //连续读页内数据
+   {
+       dest[i]=nand_read_data();            //6.读数据
+       i++;
+       src++;
+   }
+   col=0;
+}
+nand_deselect();                // 取消片选nCE
+}
+
+
+（3）编写重定位函数：copy_code_tosdram()
+/**************************************************/
+/* 				 	重定位函数					  */
+/**************************************************/
+
+/* 复制代码段（长度为len = __bss_start- _start）到SDRAM链接地址dest(0x30000000)处*/
+void copy_code_to_sdram(unsigned char* src, unsigned char* dest, unsigned int len)
+{	
+	unsigned int i = 0;
+	
+	/* 判断nor启动还是nand启动 */
+	if (isBootFromNorFlash())
+	{
+		while (i < len)			/*Nor启动，则直接复制*/
+		{
+			dest[i] = src[i];
+			i++;
+		}
+	}
+	else
+	{
+		nand_read((unsigned int)src, dest, len);
+	}
+}
+
+
+（4）编写isBootFramNorFlash()函数,来判断nand启动还是nor启动
+/*******************************************************/
+/* 				判断是NOR启动还是NAND启动				*/
+/*******************************************************/
+
+int isBootFromNorFlash(void)
+{
+	volatile int *p = (volatile int *)0;
+	
+	unsigned int tmp = *p;
+	
+	*p = 0x12345678;		/*向flash写*/
+	if (*p == 0x12345678)
+	{
+		*p = tmp;			/* 若能成功写入,就是nand flash */
+		return 0;
+	}
+	else
+	{
+		return 1;			/* 写不成功,就是NOR flash*/
+	}
+}
+
+（5）编写clear_bss()函数
+/******************************************************/
+/* 				 	bss段清除函数        			  */
+/******************************************************/
+
+void clear_bss(void)
+{
+	extern int __bss_start, __bss_end;
+	int *p = &__bss_start;
+	
+	for (; p < &__bss_end; p++)
+		*p = 0;
+}
+
+3、添加头文件： setup.h和serial.h
+（1）添加串口支持文件
+将串口uart0初始化文件serial.c添加到当前工程目录中，并加以修改。
+/*************************************************************/
+/* 				 	初始化串口，实现终端显示   				    */
+/*************************************************************/
+
+/* 串口引脚的GPIO设置寄存器 */
+#define GPHCON              (*(volatile unsigned long *)0x56000070)
+#define GPHUP               (*(volatile unsigned long *)0x56000078)
+
+/* UART registers*/
+#define ULCON0              (*(volatile unsigned long *)0x50000000)
+#define UCON0               (*(volatile unsigned long *)0x50000004)
+#define UFCON0              (*(volatile unsigned long *)0x50000008)
+#define UMCON0              (*(volatile unsigned long *)0x5000000c)
+#define UTRSTAT0            (*(volatile unsigned long *)0x50000010)
+#define UTXH0               (*(volatile unsigned char *)0x50000020)
+#define URXH0               (*(volatile unsigned char *)0x50000024)
+#define UBRDIV0             (*(volatile unsigned long *)0x50000028)
+
+/* 串口发送状态标志*/
+#define TXD0READY   (1<<2)
+
+
+#define PCLK            50000000    // PCLK = 50MHz
+#define UART_CLK        PCLK        //  UART0的时钟=PCLK
+#define UART_BAUD_RATE  115200      // 波特率115200
+#define UART_BRD        ((UART_CLK  / (UART_BAUD_RATE * 16)) - 1)
+
+/*
+ * 初始化UART0
+ * 115200,8N1,无校验
+ */
+void uart0_init(void)
+{
+    GPHCON  |= 0xa0;    // GPH2,GPH3????TXD0,RXD0
+    GPHUP   = 0x0c;     // GPH2,GPH3???????
+
+    ULCON0  = 0x03;     // 8N1(8??????λ??????飬1????λ)
+    UCON0   = 0x05;     // ????????UART?????PCLK
+    UFCON0  = 0x00;     // ?????FIFO
+    UMCON0  = 0x00;     // ?????????
+    UBRDIV0 = UART_BRD; // ???????115200
+}
+
+/*
+ * 输出单个字符
+ */
+void putc(unsigned char c)
+{
+    /* 等待串口准备好 */
+    while (!(UTRSTAT0 & TXD0READY));
+    
+    /*向串口输入字符 */
+    UTXH0 = c;
+}
+
+/*
+ * 输出字符串
+ */
+void puts(char *str)
+{
+	int i = 0;
+	while (str[i])
+	{
+		putc(str[i]);
+		i++;
+	}
+}
+
+/*
+ * 输出val的16进制数表示,主要用于调试检查某内存地址的值是否正确
+ */
+
+void puthex(unsigned int val)
+{
+	/* 0x1234abcd */
+	int i;
+	int j;
+	
+	puts("0x");
+
+	for (i = 0; i < 8; i++)
+	{
+		j = (val >> ((7-i)*4)) & 0xf;
+		if ((j >= 0) && (j <= 9))
+			putc('0' + j);
+		else
+			putc('A' + j - 0xa);
+		
+	}
+	
+}
+
+（2）添加setup.h头文件
+因为TAG结构体定义是存在u-boot-1.1.6/include/asm-arm/setup.h中，所以设置TAG参数需要用到这个文件,将setup.h复制到当前工程目录下。
+
+修改setup.h文件，删除以下不需要的代码：
+
+#define __tag __attribute__((unused, __section__(".taglist")))
+
+#define __tagtable(tag, fn) \
+
+static struct tagtable __tagtable_##fn __tag = { tag, fn }
+
+
+#define tag_member_present(tag,member)                                \
+
+         ((unsigned long)(&((struct tag *)0L)->member + 1)  \
+
+                   <= (tag)->hdr.size * 4)
+
+得到以下setup.h文件：
+
+#ifndef __ASMARM_SETUP_H
+#define __ASMARM_SETUP_H
+
+#define u8  unsigned char
+#define u16 unsigned short
+#define u32 unsigned long
+
+/*
+ * Usage:
+ *  - do not go blindly adding fields, add them at the end
+ *  - when adding fields, don't rely on the address until
+ *    a patch from me has been released
+ *  - unused fields should be zero (for future expansion)
+ *  - this structure is relatively short-lived - only
+ *    guaranteed to contain useful data in setup_arch()
+ */
+#define COMMAND_LINE_SIZE 1024
+
+/* This is the old deprecated way to pass parameters to the kernel */
+struct param_struct {
+    union {
+	struct {
+	    unsigned long page_size;		/*  0 */
+	    unsigned long nr_pages;			/*  4 */
+	    unsigned long ramdisk_size;		/*  8 */
+	    unsigned long flags;			/* 12 */
+#define FLAG_READONLY	1
+#define FLAG_RDLOAD		4
+#define FLAG_RDPROMPT	8
+	    unsigned long rootdev;			/* 16 */
+	    unsigned long video_num_cols;	/* 20 */
+	    unsigned long video_num_rows;	/* 24 */
+	    unsigned long video_x;			/* 28 */
+	    unsigned long video_y;			/* 32 */
+	    unsigned long memc_control_reg;	/* 36 */
+	    unsigned char sounddefault;		/* 40 */
+	    unsigned char adfsdrives;		/* 41 */
+	    unsigned char bytes_per_char_h;	/* 42 */
+	    unsigned char bytes_per_char_v;	/* 43 */
+	    unsigned long pages_in_bank[4];	/* 44 */
+	    unsigned long pages_in_vram;	/* 60 */
+	    unsigned long initrd_start;		/* 64 */
+	    unsigned long initrd_size;		/* 68 */
+	    unsigned long rd_start;			/* 72 */
+	    unsigned long system_rev;		/* 76 */
+	    unsigned long system_serial_low;	/* 80 */
+	    unsigned long system_serial_high;	/* 84 */
+	    unsigned long mem_fclk_21285;       /* 88 */
+	} s;
+	char unused[256];
+    } u1;
+    union {
+	char paths[8][128];
+	struct {
+	    unsigned long magic;
+	    char n[1024 - sizeof(unsigned long)];
+	} s;
+    } u2;
+    char commandline[COMMAND_LINE_SIZE];
+};
+
+
+/*
+ * The new way of passing information: a list of tagged entries
+ */
+
+/* The list ends with an ATAG_NONE node. */
+#define ATAG_NONE	0x00000000
+
+struct tag_header {
+	u32 size;
+	u32 tag;
+};
+
+/* The list must start with an ATAG_CORE node */
+#define ATAG_CORE	0x54410001
+
+struct tag_core {
+	u32 flags;		/* bit 0 = read-only */
+	u32 pagesize;
+	u32 rootdev;
+};
+
+/* it is allowed to have multiple ATAG_MEM nodes */
+#define ATAG_MEM	0x54410002
+
+struct tag_mem32 {
+	u32	size;
+	u32	start;	/* physical start address */
+};
+
+/* VGA text type displays */
+#define ATAG_VIDEOTEXT	0x54410003
+
+struct tag_videotext {
+	u8		x;
+	u8		y;
+	u16		video_page;
+	u8		video_mode;
+	u8		video_cols;
+	u16		video_ega_bx;
+	u8		video_lines;
+	u8		video_isvga;
+	u16		video_points;
+};
+
+/* describes how the ramdisk will be used in kernel */
+#define ATAG_RAMDISK	0x54410004
+
+struct tag_ramdisk {
+	u32 flags;	/* bit 0 = load, bit 1 = prompt */
+	u32 size;	/* decompressed ramdisk size in _kilo_ bytes */
+	u32 start;	/* starting block of floppy-based RAM disk image */
+};
+
+/* describes where the compressed ramdisk image lives (virtual address) */
+/*
+ * this one accidentally used virtual addresses - as such,
+ * its depreciated.
+ */
+#define ATAG_INITRD	0x54410005
+
+/* describes where the compressed ramdisk image lives (physical address) */
+#define ATAG_INITRD2	0x54420005
+
+struct tag_initrd {
+	u32 start;	/* physical start address */
+	u32 size;	/* size of compressed ramdisk image in bytes */
+};
+
+/* board serial number. "64 bits should be enough for everybody" */
+#define ATAG_SERIAL	0x54410006
+
+struct tag_serialnr {
+	u32 low;
+	u32 high;
+};
+
+/* board revision */
+#define ATAG_REVISION	0x54410007
+
+struct tag_revision {
+	u32 rev;
+};
+
+/* initial values for vesafb-type framebuffers. see struct screen_info
+ * in include/linux/tty.h
+ */
+#define ATAG_VIDEOLFB	0x54410008
+
+struct tag_videolfb {
+	u16		lfb_width;
+	u16		lfb_height;
+	u16		lfb_depth;
+	u16		lfb_linelength;
+	u32		lfb_base;
+	u32		lfb_size;
+	u8		red_size;
+	u8		red_pos;
+	u8		green_size;
+	u8		green_pos;
+	u8		blue_size;
+	u8		blue_pos;
+	u8		rsvd_size;
+	u8		rsvd_pos;
+};
+
+/* command line: \0 terminated string */
+#define ATAG_CMDLINE	0x54410009
+
+struct tag_cmdline {
+	char	cmdline[1];	/* this is the minimum size */
+};
+
+/* acorn RiscPC specific information */
+#define ATAG_ACORN	0x41000101
+
+struct tag_acorn {
+	u32 memc_control_reg;
+	u32 vram_pages;
+	u8 sounddefault;
+	u8 adfsdrives;
+};
+
+/* footbridge memory clock, see arch/arm/mach-footbridge/arch.c */
+#define ATAG_MEMCLK	0x41000402
+
+struct tag_memclk {
+	u32 fmemclk;
+};
+
+struct tag {
+	struct tag_header hdr;
+	union {
+		struct tag_core		core;
+		struct tag_mem32	mem;
+		struct tag_videotext	videotext;
+		struct tag_ramdisk	ramdisk;
+		struct tag_initrd	initrd;
+		struct tag_serialnr	serialnr;
+		struct tag_revision	revision;
+		struct tag_videolfb	videolfb;
+		struct tag_cmdline	cmdline;
+
+		/*
+		 * Acorn specific
+		 */
+		struct tag_acorn	acorn;
+
+		/*
+		 * DC21285 specific
+		 */
+		struct tag_memclk	memclk;
+	} u;
+};
+
+struct tagtable {
+	u32 tag;
+	int (*parse)(const struct tag *);
+};
+
+
+
+#define tag_next(t)	((struct tag *)((u32 *)(t) + (t)->hdr.size))
+#define tag_size(type)	((sizeof(struct tag_header) + sizeof(struct type)) >> 2)
+
+#define for_each_tag(t,base)		\
+	for (t = base; t->hdr.size; t = tag_next(t))
+
+/*
+ * Memory map description
+ */
+#define NR_BANKS 8
+
+struct meminfo {
+	int nr_banks;
+	unsigned long end;
+	struct {
+		unsigned long start;
+		unsigned long size;
+		int           node;
+	} bank[NR_BANKS];
+};
+
+extern struct meminfo meminfo;
+
+#endif
+
+4、编写boot.c文件，用于存放main函数
+(1)编写main函数代码：
+void main(void)
+
+{
+
+void (*theKernel)(int zero, int arch, unsigned int params); 
+
+/*定义一个函数指针theKernel,其中第一个参数zero:0           */
+
+/* arch:机器ID ,由于芯片类型很多,内核为了辨别芯片而定义的机器ID，其中2440芯片的ID号是362,*/
+
+/* params :tag参数位置,这里我们的tag起始地址=0x30000100*/
+
+  /*1 初 始 化 串 口 0 , 使 内 核 能 打 印 信 息  */
+
+  uart0_init();                                             //调用serial.h头文件里的uart0_init()
+  puts(“uart0 init OK\r\n”);                                //打印uart0初始化  
+
+  /*2从  nand   flash  里 把 内 核 复 制 到  SDRAM  中 */
+
+  puts(“copy  kernel  from  nand\r\n”);                  //打印内核复制
+  nand_read((0x60000+64),0X30008000,0X200000);              //烧写2MB,多烧写点避免出错       
+
+/*
+
+0x60000+64:表示内核在nand(存储)地址上位置,
+
+0X30008000:内核在sdram(运行)地址上位置
+
+0X200000:内核长度2MB
+
+因为Flash上存的内核格式是：uImage(64B头部(header)  + 真正的内核 )
+
+在uboot界面中输入mtd命令可以看到:
+
+              kernel分区位于 nand的0X00060000~0x00260000
+
+所以在nand中真正的内核地址=0x60000+64,
+
+在uboot界面中输入boot命令可以看到:
+
+            Data Size:    1848656 Bytes =1.8 MB
+
+            Load Address: 30008000
+
+所以内核目的地址=0X30008000
+
+长度=1.8MB
+
+*/
+
+  /*3 设  置  T  A  G  参  数        */
+
+ puts(“set  boot  params\r\n”);                  //打印设置参数信息
+ setup_start_tag (void);                      //在0X30000100地址保存start_tag数据，
+ setup_memory_tags (void);                      //保存memory_tag数据,让内核知道内存多大
+ setup_commandline_tag (“boottargs=noinitrd root=/dev/mtdblock3 init=/linuxrc console=ttySAC0”);  
+ /*保存命令行bootargs参数,让内核知道根文件系统位置在/dev/mtdblock3,指定开机运行第一个脚本/linuxrc,指定打印串口0*/
+ setup_end_tag (void);                            //初始化tag结构体结束
+
+ 
+ /*  4 跳 转 执 行          */
+
+   puts(“boot   kernel\r\n”);                      //打印启动内核
+   theKernel = (void (*)(int, int, unsigend int))0x30008000;
+    // 设置theKernel地址=0x30008000,用于后面启动内核
+   theKernel(0,362,0x300000100);        //362:机器ID，  0x300000100: params(tag)地址
+/*传递参数跳转执行到0x30008000启动内核,           */
+/*相当于: mov r0,#0                             */
+/*ldr r1,=362                                  */
+/*ldr r2,= 0x300000100                         */
+/*mov pc,#0x30008000                           */
+  puts(“kernel  ERROR\r\n”);                  //打印内核启动出错
+
+}
+ 
+(2) 创建TAG参数 函数
+创建tag参数函数代码如下：
+
+#include “setup.h”              
+
+static struct tag *params;               //定义个tag结构体变量params指针
+
+void setup_start_tag (void)              //开始tag
+{
+	params = (struct tag *) 0x30000100;  //tag起始地址等于0X30000100
+	params->hdr.tag = ATAG_CORE;         //头部常量tag=0x54410001
+	params->hdr.size = tag_size (tag_core);    //size=5,
+
+	params->u.core.flags = 0;
+	params->u.core.pagesize = 0;
+	params->u.core.rootdev = 0;
+	params = tag_next (params);     //parmas=( struct tag *)((u32 *)parmas+ params->hdr.size)  
+}
+
+// setup_start_tag (bd)保存tag参数如下:
+setup_memory_tags (void)                //内存tag
+{
+
+int i;
+params->hdr.tag = ATAG_MEM;               //头部常量tag=0x54410002
+params->hdr.size = tag_size (tag_mem32);       //size=4
+params->u.mem.start = 0x30000000;            //SDRAM起始地址
+params->u.mem.size = 0x4000000;             //SDRAM内存大小64M
+params = tag_next (params);                  //指向下个tag
+}  
+
+// setup_memory_tag s(bd)保存tag参数如下:
+int strlen(char  *str)          //uboot不依赖任何库,所以需要自己写strlen函数
+{
+   int  i=0;
+   while(str[i])
+   {
+    i++;
+   }
+return i;
+}
+
+void strcpy(char  *dest, char  *src)
+{  
+   while((*dest++=*src++)!=’\0’&&*dest!=’\0’);  
+}
+
+ 
+
+setup_commandline_tag (char  *cmdline)     //命令行tag
+/**cmdline :指向命令行参数                                                             */
+/*一般为:“boottargs=noinitrd root=/dev/mtdblock3 init=/linuxrc console=ttySAC0”     */
+{
+ int len=strlen(cmdline)+1;                       //计算cmdline长度,并加上结束符
+params->hdr.tag = ATAG_CMDLINE;             //头部常量tag=0x54410009
+params->hdr.size =(sizeof (struct tag_header) +len+3) >> 2;    /*size=(字符串长度+头部长度) >>2 */
+/*“+3”表示:按4字节对齐,比如当总长度=(1,2,3,4)时,size=(总长度+3)>>2=1，实现4字节对齐         */ 
+strcpy (params->u.cmdline.cmdline, cmdline);      //复制形参字符串到params->u.cmdline.cmdline
+params = tag_next (params);                    //执行下个tag
+}
+
+ 
+setup_end_tag (void)                            //结束tag
+{
+ params->hdr.tag = 0;                   
+ params->hdr.size = 0;
+}
+ 
+5、编写链接脚本：boot.lds
+（1）链接脚本语法提示：
+1、1.lds链接脚本中每个符号(:或者=)左右都要加上空格或TAB按键 ；
+
+. = ALIGN(4); 
+.rodata:{*(.rodata)} //这里:左右没有空格,将出错,改为 .rodata : {*(.rodata*)}
+ 
+2、lds链接脚本中{}和()后都不能加";"分号。
+
+.rodata : {*(.rodata*)}; //这里"}"后面加了";"逗号,将出错
+
+3、lds脚本sections中若是以当前地址.等于xxx时,.后面都要加空格；
+
+.= 0x33f80000; //这里.后面没有加空格,出错  
+. = 0x33f80000; 
+. = ALIGN(4);
+ 
+4、lds脚本中定义符号时,都要使符号在前。
+
+__bss_start = .; 
+.bss : { *(.bss) *(COMMON) }
+. = __bss_end; //这里定义"__bss_end"符号出错,应该改为   __bss_end = .;
+ 
+（2）链接脚本说明
+链接脚本中的0x33f80000就是链接地址（即程序运行时，该代码段将被链接到内存的此地址处）,共512K空间存放bootloader；
+
+定义__bss_start和__bss_end符号,是用来在程序开始之前，将这些未定义的变量清0,节省内存且_bss_start-0x33f80000就等于代码的大小(即copy_code_tosdram函数中len值)。
+
+SECTIONS {
+    . = 0x33f80000;
+    
+    . = ALIGN(4);
+    .text : { *(.text) }
+    
+    . = ALIGN(4);
+    .rodata : {*(.rodata*)} 
+    
+    . = ALIGN(4);
+    .data : { *(.data) }
+    
+    . = ALIGN(4);
+    __bss_start = .;
+    .bss : { *(.bss)  *(COMMON) }
+    __bss_end = .;
+}
+
+（3）NAND FLASH分区说明
+一般在头文件中会通过MTDPARTS_DEFAULT宏定义，明确flash的分区设置，一般来说会分为4个区，依次存放bootloader、启动参数、内核映像、根文件系统。
+
+bootloader	     一开机直接运行u-boot
+boot parameters	                    存放一些可以设置的参数,供u-boot使用
+kernel	        存放内核区
+root filesystem	        根文件系统,挂载(mount)后才能使用文件系统中的应用程序
+![picture](Asset/11.png)
+
+### （4）NAND Flash启动的架构和流程
+启动流程为：
+
+上电后，CPU内置程序会从NAND Flash的特定地址（一般是第一个block块地址）读出Boot-Loader程序到CPU的内部内存中。
+CPU将控制权交给内部存储器中的Boot-Loader；
+Boot-Loader初始化SDRAM，再从NAND Flash中将主程序载入到SDRAM中；
+Boot-Loader将控制权交给主程序。
+ 
+## 6、编写makefile文件
+**备注：**在makefile中‘=’与‘:=’的区别：
+
+‘=’ 无关位置的等于(比如:”x=a y=$(x) x=b”,那么y的值永远等于最后的值,等于 b ,而不是a)
+
+‘:=’ 有关位置的等于(比如:”x:=a y:=$(x) x:=b”,那么y的值取决于当时位置的值,等于 a ,而不是b)
+```Makefile
+CC      = arm-linux-gcc               //定义CC变量=arm-linux-gcc,简化书写,编译命令,(*.C,*.S)文件生成*.O文件
+
+LD      = arm-linux-ld                 //连接命令,将多个*.O文件生成 boot.elf       
+
+AR      = arm-linux-ar                 //库管理命令,这里没有用到 
+
+OBJCOPY = arm-linux-objcopy            //复制/格式转换命令, boot.elf生成boot.dis
+
+OBJDUMP = arm-linux-objdump           //反汇编命令,boot.bin生成boot.dis
+
+ 
+//GCC编译参数,-Wall:显示所有错误和警告, -O2:采用2级编译优化
+CFLAGS           := -Wall -O2
+
+//添加头文件参数,-nostdinc忽略缺省目录, -fno-builtin不连接系统标准启动文件和标准库文件（表示不用自带的strlen()等库函数）
+CPPFLAGS     := -nostdinc -fno-builtin       
+
+
+//定义objs变量，包含生成boot.bin目标文件需要的依赖文件
+objs := start.o init.o boot.o 
+
+//执行生成目标文件，首先是先满足objs所有依赖文件都拥有，才执行
+boot.bin: $(objs)     
+	${LD} -Tuboot.lds -o boot_elf $^
+    ${OBJCOPY} -O binary -S boot_elf $@
+    ${OBJDUMP} -D -m arm boot_elf > boot.dis
+
+//-c编译不连接。$@表示目标文件   $<表示第一个依赖文件
+%.o:%.c
+	${CC} $(CPPFLAGS) $(CFLAGS) -c -o $@ $<   
+ 
+%.o:%.S
+	${CC} $(CPPFLAGS) $(CFLAGS) -c -o $@ $<
+
+clean:
+	rm -f *.bin *.elf *.dis *.o
+
+```
+## 7、下载编译
+**（1）**新建一个文件夹，并命名为bootloader，将以上编写好的：boot.c、init.c、start.S、setup.h、boot.lds和Makefile文件复制进去。然后将该bootloader文件夹通过共享文件夹或FileZilla软件拷贝进虚拟机linux环境下。
+
+**（2）**在Linux环境下通过终端命令行进入到该bootloader文件夹中，执行make命令，进行编译、链接：
+![图片](Asset/12.png)
+**(3)**将得到的二进制文件boot.bin拷贝到Windows环境下的D盘根目录下。
+
+**(4)**键盘“Win + R”组合键，输入cmd回车，打开WIndows下的命令行终端，输入命令d:进入D盘根目录。
+
+**(5)**打开开发板电源，将JTAG-USB转接工具连接到电脑USB口，在WIndows命令行终端终端输入oflash boot.bin命令，运行FLASH烧录工具，将二进制目标文件烧录进目标板的NAND Flash中：
+![图片](Asset/13.png)
+**(6)**选择0回车，进入OpenJTAG模式，再依次键入1选择S3C2440目标板、后面都键入0完成烧录。
+
+**（7）**用串口调试线连接开发板的COM口和电脑的USB口，打开MobaXterm串口连接工具，并连接到开发板。关闭开发板电源后，再重新接通电源，通过MobaXterm软件观察开发板启动情况。
+
+**(8)**如果程序正确，将会看到开发板顺利启动内核并运行起来了linunx。
+
+[参考文章](https://blog.csdn.net/liangzc1124/article/details/112410745)

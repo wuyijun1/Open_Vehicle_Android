@@ -1,9 +1,11 @@
+﻿
+# [嵌入式linux开发uboot启动过程源码分析(一)](https://www.cnblogs.com/cyyljw/p/10998066.html)
 # [嵌入式Linux之我行 史上最牛最详细的uboot移植,不看别后悔](https://wenku.baidu.com/view/2901686eb84ae45c3b358c1d.html)
 [下载地址](https://ftp.denx.de/pub/u-boot/u-boot-2021.04-rc2.tar.bz2)：
 
-<<<<<<< HEAD
+
 [Eclipse调试U-Boot的关键技术分析](https://max.book118.com/html/2019/0404/6003123132002021.shtm)
-=======
+
 上电
 bootload 
 linux内核
